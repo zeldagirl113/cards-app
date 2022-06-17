@@ -4,4 +4,4 @@ A web app where players can play various card games like Golf, Rummy 500, Hearts
 # React
 useful link: https://reactjs.org/docs/getting-started.html#try-react
 
-Card designs from https://drawsgood.itch.io/8bit-deck-card-assets
+Card designs partially from https://drawsgood.itch.io/8bit-deck-card-assets
