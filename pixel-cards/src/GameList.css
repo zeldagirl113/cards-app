@@ -1,0 +1,18 @@
+.Game-List-Table{
+    float: right;
+    border-spacing: 70px;
+}
+.GameButton{
+    float: right;
+    background-color:#d8a3a3;
+    font-family: "PixelPlus";
+    font-size: 50px;
+    color: #6F000B;
+    border: 0;
+    border-radius: 13px;
+    width: 300px;
+    position: absolute;
+    right: -20px;
+
+
+}

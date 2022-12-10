@@ -1,38 +1,49 @@
 .App-header {
-  background-color: #7a7979;
+  background-color: #eddada;
   display: flex;
-  font-size: calc(10px + 2vmin);
+  font-size: calc(10px + 3vmin);
   color: white;
-  width: 100vw;
   table-layout: fixed;
+  width: 100%;
 }
 .App{
   width: 100%;
   height: 100%;
 }
+
 .Main-Title {
-  color: #fe6601;
+  color: #6F000B;
+  padding-left: 20px;
+  font-family: "PixelPlus";
+  width:100%;
 }
-.Main-Title {
-  color: #fe6601;
-  width: 50%;
+.Header2{
+  float: right;
+  width: 100%;
 }
 .Game-Title{
-  color: #fe6601;
-  text-align: right;
-  width: 50%;
-  border: 3px solid;
+  color: #6F000B;
+  font-family: "PixelPlus";
+  float: right;
+  text-align: center;
+
 }
 
-.Body {
-  background-color: #bcbcbc;
+.MainBody {
+  background-color: #f2eaea;
   min-height: 100vh;
   display: flex;
 }
 
 .Game-List{
-  color: #fe6601;
+  color: #6F000B;
   text-align: right;
+  width: 100%;
+  font-family: "PixelPlus";
+}
+
+.Temp{
+  width: 50%;
 }
 
 .Main-Layout{
